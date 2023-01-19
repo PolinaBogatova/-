@@ -1,0 +1,17 @@
+C:\Users\madam\OneDrive\Рабочий стол\Колледж\ПМ\Clock\Clock\bin\Debug\net6.0-windows\Clock.exe
+C:\Users\madam\OneDrive\Рабочий стол\Колледж\ПМ\Clock\Clock\bin\Debug\net6.0-windows\Clock.deps.json
+C:\Users\madam\OneDrive\Рабочий стол\Колледж\ПМ\Clock\Clock\bin\Debug\net6.0-windows\Clock.runtimeconfig.json
+C:\Users\madam\OneDrive\Рабочий стол\Колледж\ПМ\Clock\Clock\bin\Debug\net6.0-windows\Clock.dll
+C:\Users\madam\OneDrive\Рабочий стол\Колледж\ПМ\Clock\Clock\bin\Debug\net6.0-windows\Clock.pdb
+C:\Users\madam\OneDrive\Рабочий стол\Колледж\ПМ\Clock\Clock\obj\Debug\net6.0-windows\Clock.csproj.AssemblyReference.cache
+C:\Users\madam\OneDrive\Рабочий стол\Колледж\ПМ\Clock\Clock\obj\Debug\net6.0-windows\Clock.Form_Clock.resources
+C:\Users\madam\OneDrive\Рабочий стол\Колледж\ПМ\Clock\Clock\obj\Debug\net6.0-windows\Clock.csproj.GenerateResource.cache
+C:\Users\madam\OneDrive\Рабочий стол\Колледж\ПМ\Clock\Clock\obj\Debug\net6.0-windows\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madam\OneDrive\Рабочий стол\Колледж\ПМ\Clock\Clock\obj\Debug\net6.0-windows\Clock.AssemblyInfoInputs.cache
+C:\Users\madam\OneDrive\Рабочий стол\Колледж\ПМ\Clock\Clock\obj\Debug\net6.0-windows\Clock.AssemblyInfo.cs
+C:\Users\madam\OneDrive\Рабочий стол\Колледж\ПМ\Clock\Clock\obj\Debug\net6.0-windows\Clock.csproj.CoreCompileInputs.cache
+C:\Users\madam\OneDrive\Рабочий стол\Колледж\ПМ\Clock\Clock\obj\Debug\net6.0-windows\Clock.dll
+C:\Users\madam\OneDrive\Рабочий стол\Колледж\ПМ\Clock\Clock\obj\Debug\net6.0-windows\refint\Clock.dll
+C:\Users\madam\OneDrive\Рабочий стол\Колледж\ПМ\Clock\Clock\obj\Debug\net6.0-windows\Clock.pdb
+C:\Users\madam\OneDrive\Рабочий стол\Колледж\ПМ\Clock\Clock\obj\Debug\net6.0-windows\Clock.genruntimeconfig.cache
+C:\Users\madam\OneDrive\Рабочий стол\Колледж\ПМ\Clock\Clock\obj\Debug\net6.0-windows\ref\Clock.dll
